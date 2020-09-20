@@ -1,6 +1,6 @@
 {
   "name": "html-classnames",
-  "version": "0.0.0-development",
+  "version": "1.0.0-beta.1",
   "description": "JS HTML classnames helper",
   "main": "src/index.js",
   "repository": "git@github.com:eskalacja/html-classnames.git",
