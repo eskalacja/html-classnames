@@ -1,4 +1,6 @@
 # HTML JS ClassNames helper
+![npm](https://img.shields.io/npm/v/html-classnames) ![npm bundle size](https://img.shields.io/bundlephobia/min/html-classnames)
+
 ## Simple, no-dependency helper for building BEM html classes.
 Simple module, and simple readme.
 
