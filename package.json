@@ -1,9 +1,29 @@
 {
   "name": "html-classnames",
-  "version": "0.0.1",
+  "version": "0.0.0-development",
   "description": "JS HTML classnames helper",
   "main": "dist/index.js",
   "repository": "git@github.com:eskalacja/html-classnames.git",
   "author": "Szymon Nowicki <sznowicki@eskalacja.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "semantic-release": "semantic-release"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.11.6",
+    "@semantic-release/changelog": "^5.0.1",
+    "@semantic-release/commit-analyzer": "^8.0.1",
+    "@semantic-release/git": "^9.0.0",
+    "@semantic-release/npm": "^7.0.6",
+    "@semantic-release/release-notes-generator": "^9.0.1",
+    "babel-eslint": "^10.1.0",
+    "eslint": "7.5.0",
+    "eslint-config-airbnb": "18.2.0",
+    "eslint-loader": "^4.0.2",
+    "eslint-plugin-import": "^2.18.2",
+    "eslint-plugin-jsx-a11y": "^6.2.3",
+    "jest": "26.1.0",
+    "parcel-bundler": "^1.12.4",
+    "semantic-release": "^17.1.2"
+  }
 }
